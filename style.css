@@ -1,0 +1,134 @@
+span.heading {
+    position: relative;
+    left: 38px;
+    top: 0px;
+    padding-left: 40%;
+    font-size: 25px;
+   
+}
+ul li {
+    cursor: pointer;
+    padding: 22px 8px 12px 40px;
+    background: #eee;
+    font-size: 18px;
+    line-height: 0px;
+    padding-left: 108px;
+    list-style: none;
+
+}
+#inputDate{
+    width: 230px;
+    height: 17px;
+
+}
+#inputTitle{
+    width: 230px;
+    height: 17px;
+}
+
+.main{
+    width: 750px;
+    height: 650px;
+    margin: 0 auto;
+    background-color:#eee ;
+    /*border: 3px solid #444;*/
+}
+h1.head{
+    max-height: 200px;
+    min-height: 39px;
+    max-width: 700px;
+    margin: 0 auto;
+    padding-left: 266px;
+    color: #fff;
+    /*position: relative;*/
+    /*top: 27px;*/
+    padding-top: 31px;
+}
+.work{
+    background-color: #008b8b;
+}
+.input{
+        margin-left: 135px;
+}
+button.addbtn{
+       margin-left: 44%;
+       margin-top: 1em;
+       margin-bottom: 1.4em;
+       padding: 9px 15px
+     }
+.no-bullet{
+    list-style-type: none;
+    font-size: 25px;
+    position: relative;
+    left: 114px;
+    width: 546px;
+    font-weight: bold;
+    /*border: 1px solid #555;*/
+    padding-left: 126px;
+    color: #fff;
+}
+
+
+.inline{
+    width: 100%;
+    margin-left: 0px; 
+    
+    /*text-align: center;*/
+    
+    min-height: 500px;
+    max-height: 500px;
+    overflow: auto
+}
+
+
+span.newList {
+    position: relative;
+    /* position: absolute; */
+    padding-left: 40%;
+    /* font-size: 25px; */
+    /* float: right; */
+    top: -20px;
+    left: 148px;
+}
+
+span{
+    padding-right: 0px;
+}
+h1.no-bullet{
+    margin: auto -54px;
+    width: 74%;
+    user-select: none;
+}
+
+#rmvbtn{
+ margin-top: 1px;
+}
+button{
+    border-radius: 5px;
+    margin-right: 12px;
+    padding: 9px;
+    background: #d9d9d9;
+    color: #555;
+    border: none;
+}
+#list{
+    text-transform: capitalize;
+}
+ul li:nth-child(odd) {
+    background: #f9f9f9;
+}
+.newList , .tag{
+    color: red
+}
+input {
+    border: none;
+    width: 75%;
+    padding: 10px;
+    float: left;
+    font-size: 16px;
+    margin-right: 10px
+}
+button:hover
+{
+    background-color: #bbb;
+}
